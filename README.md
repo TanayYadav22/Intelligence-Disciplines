@@ -93,3 +93,6 @@ Analysis of weapons, equipment, or environmental conditions.
 ## 🔚 End of Report
 
 This repository is intended as a reference for educational, defense, and policy research purposes.
+- Author: https://github.com/TanayYadav22
+- Related Content: https://github.com/TanayYadav22/Intelligence-Disciplines
+- Social Media: X ( https://x.com/_tanayyadav_/ ), LinkedIn ( https://www.linkedin.com/in/tanay-yadav2101/ )
