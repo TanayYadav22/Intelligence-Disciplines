@@ -1,4 +1,3 @@
-
 # Intelligence Disciplines Overview
 
 This repository provides an organized summary of major intelligence types used in defense, diplomacy, and national security operations.
